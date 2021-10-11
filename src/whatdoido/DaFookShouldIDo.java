@@ -306,7 +306,7 @@ public static void SE(){
   public static void main(String[] args) throws InterruptedException {
   
   //Version Number
-  String VN = "2.9";
+  String VN = "2.9.1";
   
   //App Name
   String AN = "\"Da Fook Should I Do\"";
