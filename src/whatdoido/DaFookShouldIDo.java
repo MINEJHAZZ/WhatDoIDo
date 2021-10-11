@@ -203,7 +203,7 @@ PrintArr(L16);
   
 }
 
-//Easter Egg 1(F U)
+//Easter Egg 3(F U)
 static void FU() throws InterruptedException{
 int stm = 40;
 
