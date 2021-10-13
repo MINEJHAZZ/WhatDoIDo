@@ -296,7 +296,7 @@ public static void SE(){
     Scanner S = new Scanner(System.in);
     
     System.out.println("Press Any Key to exit program.");
-    String p = S.nextLine();
+    S.nextLine();
     
     System.exit(0);
 }
